@@ -107,10 +107,10 @@ https://book.hacktricks.xyz/welcome/readme
 - RedTeaming - https://lnkd.in/et_T2DEa
 
 ##### — Vulnerability Management —
-Qualys - https://lnkd.in/eDWu2zyT
+ - Qualys - https://lnkd.in/eDWu2zyT
 
 ##### — SOC —
-Splunk - https://lnkd.in/et5bkjeY
+- Splunk - https://lnkd.in/et5bkjeY
 
 ##### — Engineering —
 - Secure Software Development - https://lnkd.in/ebGpA4wG
